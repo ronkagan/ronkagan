@@ -1,9 +1,8 @@
-  [Facebook](https://www.facebook.com/RonyKagan)  
-  [Instagram](https://www.instagram.com/ronkagan/)  
-  [LinkedIn](https://www.linkedin.com/in/ronykagan/)  
-  [Medium](https://medium.com/@ronkagan)  
-  [Stack Overflow](https://stackoverflow.com/users/3995036/ron-kagan)  
-  [Twitter](https://twitter.com/RonKagan)  
-  [Unsplash](https://unsplash.com/@ronkagan)  
-  [Skill Trade](https://www.skilltrade.marketing/)  
-  [YouTube](https://www.youtube.com/c/RonKagan)  
+# Ron Kagan
+
+I lead marketing for B2B SaaS and marketplace companies from Series A through $200M ARR. I also do AI transformation work, full-time or fractional.
+
+- [Skill Trade](https://skilltrade.marketing)
+- [Resume](https://skilltrade.marketing/resume)
+- [moscow-vendor-review](https://github.com/ronkagan/moscow-vendor-review): an agent skill that checks vendor updates against a team's approved requirements
+- [LinkedIn](https://www.linkedin.com/in/ronykagan)
